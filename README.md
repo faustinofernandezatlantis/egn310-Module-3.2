@@ -5,9 +5,9 @@ Here is a complete, professional `README.md` template tailored for your Playlist
 
 An interactive, web-based Music Playlist Manager built with **Streamlit** and powered by a custom **Doubly Linked List** implementation from scratch.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_CLOUD_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://egn310-module-3-2.streamlit.app/)
 
-> 🔗 **Live Demo:** [Click here to view the deployed application on Streamlit Community Cloud](YOUR_STREAMLIT_CLOUD_LINK_HERE)
+> 🔗 **Live Demo:** [Click here to view the deployed application on Streamlit Community Cloud](https://egn310-module-3-2.streamlit.app/)
 
 ---
 
